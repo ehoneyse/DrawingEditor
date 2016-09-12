@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=event
+comment0.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.params=canvas
+comment1.target=ControlPanel(DrawingPanel)
+numComments=2

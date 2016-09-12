@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=ax\ ay\ aradius\ acolor
+comment0.target=Balloon(int,\ int,\ int,\ java.awt.Color)
+comment1.params=
+comment1.target=int\ getX()
+comment2.params=
+comment2.target=int\ getY()
+comment3.params=
+comment3.target=int\ getRadius()
+comment4.params=x\ y
+comment4.target=double\ distance(int,\ int)
+comment5.params=x\ y
+comment5.target=void\ move(int,\ int)
+comment6.params=r
+comment6.target=void\ setRadius(int)
+comment7.params=x\ y
+comment7.target=boolean\ isInside(int,\ int)
+comment8.params=x\ y\ frameWidth\ frameHeight
+comment8.target=boolean\ isOnBorder(int,\ int,\ int,\ int)
+comment9.params=g\ filled
+comment9.target=void\ paint(java.awt.Graphics2D,\ boolean)
+numComments=10
